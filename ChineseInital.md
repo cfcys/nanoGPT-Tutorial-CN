@@ -1,7 +1,7 @@
 
 # nanoGPT
 
-![nanoGPT](assets/nanogpt.jpg)
+![nanoGPT](./assets/nanogpt.jpg)
 
 这是目前最简单、最快的一个训练/微调中等大小的GPT仓库。该项目是对[minGPT](https://github.com/karpathy/minGPT) 项目的重构。项目虽然仍处于积极的开发阶段；但是目前其中的`train.py`文件在OpenWebText上已经可以复现GPT-2（124M）在8个A100（40GB）上训练四天的效果。此外，代码写的十分简单易读：`train.py`是一个300行的训练的模版，而 `model.py` 是一个300行的GPT模型定义的模版，该模板支持选择加载OpenAI的GPT-2权重。
 

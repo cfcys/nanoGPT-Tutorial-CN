@@ -51,8 +51,9 @@
 # 🔵 中文版nanoGPT项目readme
 
 <p align="left">
-   我对nanoGPT项目进行了精细的中文翻译，也许会对默写初学者有所帮助 <a href="File/ChineseInital.md">中文版</a>
+   我对nanoGPT项目进行了精细的中文翻译，也许会对默写初学者有所帮助 <a href="ChineseInital.md">中文版</a>
 </p>
+
 
 
 
