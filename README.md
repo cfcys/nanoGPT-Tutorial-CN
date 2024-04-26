@@ -9,7 +9,6 @@
 </p>
 
 
-
 **该仓库在持续更新中.**
 
 <p align="center">
@@ -53,7 +52,7 @@
 ## 🍄 中文版nanoGPT项目readme
 
 <p align="left">
-   我对nanoGPT项目进行了精细的中文翻译，也许会对默写初学者有所帮助 <a href="ChineseInital.md">中文版</a>
+   我对nanoGPT项目进行了精细的中文翻译，也许会对初学者有所帮助 <a href="ChineseInital.md">中文版</a>
 </p>
 ## 🤖  中文预训练数据集搜集
 
