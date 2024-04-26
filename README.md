@@ -53,8 +53,9 @@
 ## 🍄 中文版nanoGPT项目readme
 
 <p align="left">
-   我对nanoGPT项目进行了精细的中文翻译，也许会对默写初学者有所帮助 <a href="ChineseInital.md">中文版</a>
+   我对nanoGPT项目进行了精细的中文翻译，也许会对国语初学者有所帮助 <a href="ChineseInital.md">中文版</a>
 </p>
+
 ## 🤖  中文预训练数据集搜集
 
 这里会搜集一些小型的，适合于nanoGPT进行训练的中文数据集的仓库 其大多是常用的NLP训练语料，但我给出整理数据以适应nanoGPT的要求
