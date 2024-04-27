@@ -52,12 +52,11 @@
 ## 🍄 中文版nanoGPT项目readme
 
 <p align="left">
-<<<<<<< HEAD
    我对nanoGPT项目进行了精细的中文翻译，也许会对初学者有所帮助 <a href="ChineseInital.md">中文版</a>
-=======
 </p>
 
-## 🤖  中文预训练数据集搜集
+
+## 🤖  中文预训练数据集
 
 这里会搜集一些小型的，适合于nanoGPT进行训练的中文数据集的仓库 其大多是常用的NLP训练语料，但我给出整理数据以适应nanoGPT的要求
 
@@ -66,10 +65,16 @@
 >[chinese-poetry/chinese-poetry: The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 (github.com)](https://github.com/chinese-poetry/chinese-poetry)
 >
 >[garychowcmu/daizhigev20: 殆知阁古代文献 (github.com)](https://github.com/garychowcmu/daizhigev20)
+>
+>[《西游记》全集,txt全集下载,电子书-奇书网 (qishuta.org)](https://www.qishuta.org/Shtml5132.html)
 
 ## 💡 超级详细的nanoGPT视频教程
 
-等待更新ing
+* **讲解文档**
+
+> Lecture1 : [教程初衷](Lecture/l1.ipynb)
+>
+> Lecture2 : [数据集处理与搜集](Lecture/l2.ipynb)
 
 ## 💪 对话能力实现
 主要参考[VatsaDev/nanoChatGPT: nanogpt turned into a chat model (github.com)](https://github.com/VatsaDev/nanoChatGPT)
