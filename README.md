@@ -111,6 +111,8 @@
 >[VatsaDev/nanoChatGPT: nanogpt turned into a chat model (github.com)](https://github.com/VatsaDev/nanoChatGPT)
 >
 >[Andrei-Aksionov/nanoGPTplus (github.com)](https://github.com/Andrei-Aksionov/nanoGPTplus)
+>
+>https://github.com/sanjeevanahilan/nanoChatGPT
 
 
 ## 📌 其它
