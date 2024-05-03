@@ -74,7 +74,17 @@
 
 > Lecture1 : [教程初衷](Lecture/l1.ipynb)
 >
-> Lecture2 : [数据集处理与搜集](Lecture/l2.ipynb)
+> Lecture2 : [基础GPT框架构造与初步效果](Lecture/l2.ipynb) ，[视频在制作中 ]
+>
+> Lecture3 : [数学推导与模型优化](Lecture/l3.ipynb) ，[视频在制作中 ]
+>
+> Lecture4 : [对话能力实现](Lecture/l4.ipynb) ，[视频在制作中 ]
+
+>
+>
+>
+
+> Lecture+ : [对于编码解码方式的讨论](Lecture/ln.ipynb) 
 
 ## 💪 对话能力实现
 主要参考[VatsaDev/nanoChatGPT: nanogpt turned into a chat model (github.com)](https://github.com/VatsaDev/nanoChatGPT)
