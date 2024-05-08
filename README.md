@@ -12,7 +12,7 @@
 **该仓库在持续更新中.**
 
 <p align="center">
-   📺 <a href="https://www.bilibili.com/video/BV1XJ4m1P7uj/" target="_blank">BiliBili</a>
+   📺 <a href="https://www.bilibili.com/video/BV1XJ4m1P7uj/?vd_source=32f9de072b771f1cd307ca15ecf84087" target="_blank">BiliBili</a>
    🌐:<a href="https://youtube.com" target="_blank">youtube</a> 
 </p> 
 
@@ -75,7 +75,7 @@
 
 > Lecture1 : [教程初衷](Lecture/l1.ipynb)
 >
-> Lecture2 : [基础GPT框架构造与初步效果](Lecture/l2.ipynb) ，[https://www.bilibili.com/video/BV1XJ4m1P7uj/ ]
+> Lecture2 : [基础GPT框架构造与初步效果](Lecture/l2.ipynb) ，[https://www.bilibili.com/video/BV1XJ4m1P7uj/?vd_source=32f9de072b771f1cd307ca15ecf84087]
 >
 > Lecture3 : [均值自注意力的几种方式数学推导](Lecture/l3.ipynb) ，[视频在制作中 ]
 >
