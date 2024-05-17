@@ -12,9 +12,10 @@
 **该仓库在持续更新中.**
 
 <p align="center">
-   📺 <a href="https://bilibili.com" target="_blank">BiliBili</a>
-   🌐:<a href="https://youtube.com" target="_blank">youtube</a> 
+   📺 <a href="https://www.bilibili.com/video/BV1XJ4m1P7uj/?vd_source=32f9de072b771f1cd307ca15ecf84087" target="_blank">BiliBili</a>
+   🌐:<a href="https://www.youtube.com/watch?v=sBqyBSb7K6U" target="_blank">youtube</a> 
 </p> 
+
 
 </br></br>
 
@@ -74,11 +75,15 @@
 
 > Lecture1 : [教程初衷](Lecture/l1.ipynb)
 >
-> Lecture2 : [基础GPT框架构造与初步效果](Lecture/l2.ipynb) ，[视频在制作中 ]
+> Lecture2 : [基础GPT框架构造与初步效果](Lecture/l2.ipynb) ，[BiliBili](https://www.bilibili.com/video/BV1XJ4m1P7uj/?vd_source=32f9de072b771f1cd307ca15ecf84087)     [Youtube][https://www.youtube.com/watch?v=sBqyBSb7K6U]
 >
-> Lecture3 : [数学推导与模型优化](Lecture/l3.ipynb) ，[视频在制作中 ]
+> Lecture3 : [均值自注意力的几种方式数学推导](Lecture/l3.ipynb) ，[视频在制作中 ]
 >
-> Lecture4 : [对话能力实现](Lecture/l4.ipynb) ，[视频在制作中 ]
+> Lecture4 : [搭建自注意力的准备工作](Lecture/l4.ipynb) ，[视频在制作中 ]
+>
+> Lecture5 : [Q,K,V的引入以及多头自注意力的实现](Lecture/l5.ipynb) ，[视频在制作中 ]
+>
+> Lecture6 : [对话能力实现](Lecture/l4.ipynb) ，[视频在制作中 ]
 
 >
 >
